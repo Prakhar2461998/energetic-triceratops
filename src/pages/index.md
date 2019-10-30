@@ -31,9 +31,8 @@ sections:
     spotlights:
       - image: images/pic01.jpg
         text: >-
-          Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum
-          elit fusce accumsan dui libero, quis vehicula lectus ultricies eu. In
-          convallis amet leo non sapien iaculis efficitur consequat lorem ipsum.
+          Failure will never overtake me if my determination to succeed is
+          strong enough. ...
         title: Magna sed ultrices
       - image: images/pic02.jpg
         text: >-
