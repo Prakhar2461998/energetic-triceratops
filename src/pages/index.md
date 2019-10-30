@@ -33,7 +33,7 @@ sections:
         text: >-
           Failure will never overtake me if my determination to succeed is
           strong enough. ...
-        title: Magna sed ultrices
+        title: QUOTES
       - image: images/pic02.jpg
         text: >-
           Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum
